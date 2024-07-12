@@ -33,16 +33,13 @@ python main.py
 If you find POCL is useful for your research, please consider citing the following papers:
 
 ```
-@article{POCL, 
-    title={Pre-trained Online Contrastive Learning for Insurance Fraud Detection}, 
-    volume={38}, 
-    url={https://ojs.aaai.org/index.php/AAAI/article/view/30259},
-    DOI={10.1609/aaai.v38i20.30259}, 
-    number={20}, 
-    journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-    author={Zhang, Rui and Cheng, Dawei and Yang, Jie and Ouyang, Yi and Wu, Xian and Zheng, Yefeng and Jiang, Changjun}, 
-    year={2024}, 
-    month={Mar.}, 
-    pages={22511-22519} 
+@inproceedings{POCL,
+    title={Pre-trained Online Contrastive Learning for Insurance Fraud Detection},
+    author={Zhang, Rui and Cheng, Dawei and Yang, Jie and Ouyang, Yi and Wu, Xian and Zheng, Yefeng and Jiang, Changjun},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={38},
+    number={20},
+    pages={22511--22519},
+    year={2024}
 }
 ```
